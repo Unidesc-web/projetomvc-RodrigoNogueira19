@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaPedidos", "ListaPedidos.csproj", "{5BB837DF-85A6-8557-25A6-1C2AF184D010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB837DF-85A6-8557-25A6-1C2AF184D010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB837DF-85A6-8557-25A6-1C2AF184D010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB837DF-85A6-8557-25A6-1C2AF184D010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB837DF-85A6-8557-25A6-1C2AF184D010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38D2727-44F6-48AE-AF88-DA19463EC268}
+	EndGlobalSection
+EndGlobal
